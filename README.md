@@ -17,7 +17,7 @@ SnapSphere is a full-stack social media web application inspired by Instagram. B
 - JWT Authentication  
 - Multer (for image uploads)  
 
-## ✨ Core Features (WIP)
+## ✨ Core Features (⚠️WIP)
 
 - [ ] User Signup/Login with JWT Auth  
 - [ ] Create/Edit Profile (bio, profile picture)  
