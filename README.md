@@ -28,7 +28,7 @@ SnapSphere is a full-stack social media web application inspired by Instagram. B
 - [ ] Explore (random public posts)  
 - [ ] Realtime Notifications (Future scope)  
 
-## 📅 Weekly Commit Progress
+## 📅 Weekly Commit Progress (⚠️)
 
 This repository follows a consistent **weekly development & commit schedule** with clear milestones:
 
